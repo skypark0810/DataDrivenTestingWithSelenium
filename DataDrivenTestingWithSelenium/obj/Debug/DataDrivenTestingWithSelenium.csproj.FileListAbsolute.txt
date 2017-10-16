@@ -1,0 +1,15 @@
+C:\Users\Jenny\source\repos\DataDrivenTestingWithSelenium\DataDrivenTestingWithSelenium\obj\Debug\DataDrivenTestingWithSelenium.csproj.CoreCompileInputs.cache
+C:\Users\Jenny\source\repos\DataDrivenTestingWithSelenium\DataDrivenTestingWithSelenium\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Jenny\source\repos\DataDrivenTestingWithSelenium\DataDrivenTestingWithSelenium\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Jenny\source\repos\DataDrivenTestingWithSelenium\DataDrivenTestingWithSelenium\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Jenny\source\repos\DataDrivenTestingWithSelenium\DataDrivenTestingWithSelenium\bin\Debug\DataDrivenTestingWithSelenium.dll
+C:\Users\Jenny\source\repos\DataDrivenTestingWithSelenium\DataDrivenTestingWithSelenium\bin\Debug\DataDrivenTestingWithSelenium.pdb
+C:\Users\Jenny\source\repos\DataDrivenTestingWithSelenium\DataDrivenTestingWithSelenium\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Jenny\source\repos\DataDrivenTestingWithSelenium\DataDrivenTestingWithSelenium\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Jenny\source\repos\DataDrivenTestingWithSelenium\DataDrivenTestingWithSelenium\bin\Debug\WebDriver.dll
+C:\Users\Jenny\source\repos\DataDrivenTestingWithSelenium\DataDrivenTestingWithSelenium\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Jenny\source\repos\DataDrivenTestingWithSelenium\DataDrivenTestingWithSelenium\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Jenny\source\repos\DataDrivenTestingWithSelenium\DataDrivenTestingWithSelenium\bin\Debug\WebDriver.xml
+C:\Users\Jenny\source\repos\DataDrivenTestingWithSelenium\DataDrivenTestingWithSelenium\obj\Debug\DataDrivenTestingWithSelenium.dll
+C:\Users\Jenny\source\repos\DataDrivenTestingWithSelenium\DataDrivenTestingWithSelenium\obj\Debug\DataDrivenTestingWithSelenium.pdb
+C:\Users\Jenny\source\repos\DataDrivenTestingWithSelenium\DataDrivenTestingWithSelenium\obj\Debug\DataDrivenTestingWithSelenium.csprojResolveAssemblyReference.cache
